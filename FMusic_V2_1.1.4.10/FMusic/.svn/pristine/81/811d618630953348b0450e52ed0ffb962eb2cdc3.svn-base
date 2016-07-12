@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/activity_singer_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/activity_singer_detail.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_app.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_app.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_singer.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_singer.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list_genre.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list_genre.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_genre.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_genre.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/layout_snackbar_include.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_genre_girdview.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_genre_girdview.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_download_app.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_download_app.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_play_song.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_play_song.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/footer_main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/footer_main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/toolbar_bottom.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/toolbar_bottom.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_mini_player.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_mini_player.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_downloader.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_downloader.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/activity_app_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/activity_app_detail.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list_singer.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list_singer.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list_app_download.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list_app_download.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/spinner_row.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list_file.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list_file.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/list_item_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_app.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_app.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/layout_tab_text.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_song_hot.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_song_hot.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_download_song.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_download_song.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_list_appcombo.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_list_appcombo.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/activity_genre_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/activity_genre_detail.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/layout_tab_icon.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/layout/layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/item_cardview_genre.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/item_cardview_genre.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/fragment_song_new.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/fragment_song_new.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/layout/activity_first.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/layout/activity_first.xml"
+    }
+]

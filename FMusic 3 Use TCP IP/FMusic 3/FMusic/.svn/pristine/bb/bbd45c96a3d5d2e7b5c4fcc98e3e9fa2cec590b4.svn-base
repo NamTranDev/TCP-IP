@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/check_sm.9.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/check_sm.9.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/image_bg.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/image_bg.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/icon_photo.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/icon_photo.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/icon_camera.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/icon_camera.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_action_editor_attach_file.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_action_editor_attach_file.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/icon_video.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/icon_video.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/drawable-v21/ic_action_next_item.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/drawable-v21/ic_action_next_item.png"
+    }
+]

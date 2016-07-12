@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FPTShop</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_title_song_new">Nhạc mới</string>
+    <string name="fragment_title_song_hot">Top 100</string>
+    <string name="fragment_title_singer">Nghệ sĩ</string>
+    <string name="fragment_title_genre">Thể loại</string>
+    <string name="fragment_title_app">App &amp; Game</string>
+    <string name="fragment_title_download_song">Nhạc đã tải</string>
+    <string name="fragment_title_download_app">App &amp; Game đã tải</string>
+    <string name="fragment_title_downloader">Đang tải</string>
+    <string name="fragment_title_dong_bo_danh_ba">Đồng bộ danh bạ</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_singer_detail">SingerDetailActivity</string>
+    <string name="title_activity_genre_detail">GenreDetailActivity</string>
+    <string name="title_activity_app_detail">AppDetailActivity</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_genre_detail_fragment">GenreDetailFragmentActivity</string>
+
+    <!--Syns Contacts-->
+    <string name="sysnContacts">Đồng bộ danh bạ</string>
+    <string name="enable_p2p_button">Wifi</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="connect_peer_button">Kết nối</string>
+    <string name="disconnect_peer_button">Ngắt kết nối</string>
+    <string name="transfer">Transfer</string>
+    <string name="sync">Đồng bộ</string>
+    <string name="empty"></string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="client_text">This device will act as a client. Click on Gallery button to pick a local(stored) file</string>
+    <string name="empty_message">Hiện tại chưa tìm thấy thiết bị nào . Kết nối chung wifi và nhấn tìm kiếm</string>
+    <string name="p2p_off_warning">Hãy kiểm tra lại kết nối Internet</string>
+    <string name="group_owner_text">"Ai là trưởng phòng ? "</string>
+    <string name="label_me">Tôi</string>
+    <string name="label_peers">Các thiết bị khác</string>
+    <string name="note"><b><font color="red">Lưu ý </font></b>: Vui lòng kết nối chung mạng wifi</string>
+</resources>

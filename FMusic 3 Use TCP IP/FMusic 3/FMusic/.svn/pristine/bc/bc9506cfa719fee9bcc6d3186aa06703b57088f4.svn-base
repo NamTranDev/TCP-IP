@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vn.com.fptshop.fmusic"
+    android:versionCode="10"
+    android:versionName="1.1.4" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <!-- Internet permission -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="vn.com.fptshop.fmusic.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="vn.com.fptshop.fmusic.FirstActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vn.com.fptshop.fmusic.SingerDetailActivity"
+            android:label="@string/title_activity_singer_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="vn.com.fptshop.fmusic.GenreDetailActivity"
+            android:label="@string/title_activity_genre_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="vn.com.fptshop.fmusic.AppDetailActivity"
+            android:label="@string/title_activity_app_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service android:name="vn.com.fptshop.fmusic.PlayMusicService" >
+        </service>
+    </application>
+
+</manifest>

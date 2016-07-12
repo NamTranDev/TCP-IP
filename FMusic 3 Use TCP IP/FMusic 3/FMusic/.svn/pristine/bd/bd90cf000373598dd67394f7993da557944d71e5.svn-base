@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FPTShop</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_title_song_new">Nhạc mới</string>
+    <string name="fragment_title_song_hot">Top 100</string>
+    <string name="fragment_title_singer">Nghệ sĩ</string>
+    <string name="fragment_title_genre">Thể loại</string>
+    <string name="fragment_title_app">App &amp; Game</string>
+    <string name="fragment_title_download_song">Nhạc đã tải</string>
+    <string name="fragment_title_download_app">App &amp; Game đã tải</string>
+    <string name="fragment_title_downloader">Đang tải</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_singer_detail">SingerDetailActivity</string>
+    <string name="title_activity_genre_detail">GenreDetailActivity</string>
+    <string name="title_activity_app_detail">AppDetailActivity</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_genre_detail_fragment">GenreDetailFragmentActivity</string>
+
+</resources>

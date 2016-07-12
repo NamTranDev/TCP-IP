@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/menu_genre_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/menu_genre_detail.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/menu_first.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/menu_first.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/menu_singer_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/menu_singer_detail.xml"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/menu/menu_app_detail.xml",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/menu/menu_app_detail.xml"
+    }
+]

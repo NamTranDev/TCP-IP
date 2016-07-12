@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_perm_contact_calendar_white_24dp.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/mipmap-mdpi/ic_perm_contact_calendar_white_24dp.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_cloud_download_white_48dp.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/mipmap-mdpi/ic_cloud_download_white_48dp.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_audiotrack_white_48dp.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/mipmap-mdpi/ic_audiotrack_white_48dp.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_videogame_asset_white_48dp.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/mipmap-mdpi/ic_videogame_asset_white_48dp.png"
+    },
+    {
+        "merged": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_queue_music_white_48dp.png",
+        "source": "/Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/res/mipmap-mdpi/ic_queue_music_white_48dp.png"
+    }
+]

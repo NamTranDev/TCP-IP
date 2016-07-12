@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F81414</color>
+    <color name="colorPrimaryDark">#F81414</color>
+    <color name="colorAccent">#F81414</color>
+    <color name="colorBackgroundMenu">#363636</color>
+    <color name="colorTextMenu">#ffffff</color>
+    <color name="button_download_text">#0b3f79</color>
+    <color name="button_download_text_downloaded">#FFA500</color>
+    <color name="button_download_text_downloaded_success">#00A05F</color>
+    <color name="button_download_text_downloaded_delete">#F81414</color>
+
+    <color name="colorBackgroundToolbarBottom">#939393</color>
+    <color name="black">#000000</color>
+
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_song_new"
+            android:icon="@mipmap/ic_audiotrack_white_48dp"
+            android:title="Nhạc mới" />
+        <item
+            android:id="@+id/nav_song_hot"
+            android:icon="@mipmap/ic_queue_music_white_48dp"
+            android:title="Top 100" />
+        <item
+            android:id="@+id/nav_singer"
+            android:icon="@mipmap/ic_perm_contact_calendar_white_24dp"
+            android:title="Nghệ sĩ" />
+        <item
+            android:id="@+id/nav_genre"
+            android:icon="@drawable/ic_headphones_white_24dp"
+            android:title="Thể loại" />
+    </group>
+
+    <item android:title="Ứng dụng">
+        <menu>
+            <item
+                android:id="@+id/nav_app_game"
+                android:icon="@mipmap/ic_videogame_asset_white_48dp"
+                android:title="App &amp; Game" />
+
+        </menu>
+    </item>
+    <item android:title="Donwload"
+
+        >
+        <menu>
+            <item
+                android:id="@+id/nav_download_song"
+                android:icon="@mipmap/ic_cloud_download_white_48dp"
+                android:title="Music" />
+
+            <item
+                android:id="@+id/nav_download_app"
+                android:icon="@mipmap/ic_cloud_download_white_48dp"
+                android:title="App &amp; Game" />
+
+            <item
+                android:id="@+id/nav_downloader"
+                android:icon="@mipmap/ic_cloud_download_white_48dp"
+                android:title="Downloader" />
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/linearLayout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:orientation="vertical">-->
+
+        <TextView
+            android:id="@+id/lblIp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Đã chia sẻ thiết bị:"
+            android:textSize="20dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/lblPort"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Port: 35999"
+            android:textSize="20dp"
+            android:layout_below="@+id/lblIp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:textColor="#0053ff"
+            android:textStyle="bold" />
+    <!--</LinearLayout>-->
+
+    <!--<ListView-->
+        <!--android:id="@+id/listView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/linearLayout"-->
+        <!--android:layout_centerHorizontal="true" />-->
+</RelativeLayout>

@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:2:1-63:12
+	xmlns:android
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:12:5-61:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:17:9-40
+activity#vn.com.fptshop.fmusic.MainActivity
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:18:9-30:20
+	android:screenOrientation
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:19:13-41
+activity#vn.com.fptshop.fmusic.FirstActivity
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:31:9-41:20
+	android:screenOrientation
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:32:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:39:27-74
+activity#vn.com.fptshop.fmusic.SingerDetailActivity
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:42:9-46:20
+	android:screenOrientation
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:45:13-65
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:43:13-49
+activity#vn.com.fptshop.fmusic.GenreDetailActivity
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:screenOrientation
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:49:13-49
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:50:13-64
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:48:13-48
+activity#vn.com.fptshop.fmusic.AppDetailActivity
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:52:9-56:20
+	android:screenOrientation
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:55:13-62
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:53:13-46
+service#vn.com.fptshop.fmusic.PlayMusicService
+ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:58:9-59:19
+	android:name
+		ADDED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml:58:18-50
+uses-sdk
+INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:23.0.0] /Users/fpt1/Documents/MinhDH/Android/FMusic/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fpt1/Documents/MinhDH/Android/FMusic/app/src/main/AndroidManifest.xml
